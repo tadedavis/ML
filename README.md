@@ -1,1 +1,1 @@
-# gitpractice
+# ML and Deep Learning Projects
